@@ -1,0 +1,11 @@
+{
+  "name": "vapi_mongodb",
+  "version": "1.0.0",
+  "description": "This api use mongodb database using mongodb package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishal Chouhan",
+  "license": "ISC"
+}
